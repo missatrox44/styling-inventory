@@ -72,3 +72,19 @@ img {
 .gray100 {
   filter: grayscale(100%);
 }
+
+.bright80 {
+  filter: brightness(80%);
+}
+
+.bright50 {
+  filter: brightness(50%);
+}
+
+.bright30 {
+  filter: brightness(30%);
+}
+
+.bright10 {
+  filter: brightness(10%);
+}
