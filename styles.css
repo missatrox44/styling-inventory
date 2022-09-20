@@ -1,0 +1,74 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+img {
+  margin: 30px;
+}
+
+.original {
+  border: solid blue 10px;
+}
+.transform10 {
+  transform: rotate(10deg);
+}
+
+.transform30 {
+  transform: rotate(30deg);
+}
+
+.transformNeg30 {
+  transform: rotate(-30deg);
+}
+
+.transformNeg10 {
+  transform: rotate(-10deg);
+}
+
+.transform90 {
+  transform: rotate(90deg);
+}
+
+.transformNeg90 {
+  transform: rotate(-90deg);
+}
+
+.blur2 {
+  filter: blur(2px);
+}
+
+.blur10 {
+  filter: blur(10px);
+}
+
+.blur20 {
+  filter: blur(20px);
+}
+
+.blur35 {
+  filter: blur(35px);
+}
+
+.blur50 {
+  filter: blur(50px);
+}
+
+.gray30 {
+  filter: grayscale(30%);
+}
+
+.gray50 {
+  filter: grayscale(50%);
+}
+
+.gray70 {
+  filter: grayscale(70%);
+}
+
+.gray90 {
+  filter: grayscale(90%);
+}
+
+.gray100 {
+  filter: grayscale(100%);
+}
